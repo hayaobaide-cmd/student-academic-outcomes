@@ -119,7 +119,11 @@ streamlit run app.py
 
 ## Team Members
 
-Add the names of all group members and their respective contributions here.
+ Haya Obaid
+
+Afra
+
+Fatema
 
 ## AI Tool Usage Disclosure
 
